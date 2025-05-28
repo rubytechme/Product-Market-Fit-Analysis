@@ -29,7 +29,10 @@ The following Power BI features were incorporated
 - Dashboard Automation
 
 ## Visualization & Analysis: 
-![](https://github.com/rubytechme/Product-Market-Fit-Analysis/blob/main/IMG-20250504-WA0007.jpg)
+
+### Overview:
+
+![](https://github.com/rubytechme/Product-Market-Fit-Analysis/blob/main/PMF02.png)
 
 ### Analysis:
 
@@ -43,6 +46,11 @@ The stark contrast suggests that, while some customers may find value in the off
 
 The average customer churn rate of 13.45% for these early-stage startups falls within the generally accepted industry benchmark for similar ventures, which typically ranges from 10% to 15%. This suggests that, despite the inherent risks and adjustments common in the early stages of a business, the rate at which customers are discontinuing their use of the startups' products or services is currently within the expected parameters for this phase of growth.
 Though the figure is expected to be higher than this, however the 46% unaccounted for is as a result of calculation being done off different cohorts
+
+### Product Analysis:
+
+![](https://github.com/rubytechme/Product-Market-Fit-Analysis/blob/main/PMF01.png)
+
 
 ### Customer’s engagement Rate
 

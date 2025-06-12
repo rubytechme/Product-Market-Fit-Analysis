@@ -1,6 +1,6 @@
 # Product-Market-Fit-Analysis
 
-![](https://github.com/rubytechme/Product-Market-Fit-Analysis/blob/main/PMF02.png)
+![](https://github.com/rubytechme/Product-Market-Fit-Analysis/blob/main/PMF.jpeg)
 
 ## Introduction:
 
